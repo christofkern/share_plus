@@ -1,3 +1,5 @@
+Trying to fix the edit button, solution by this [comment](https://github.com/fluttercommunity/plus_plugins/issues/1357#issuecomment-2212582129).
+
 # share_plus
 
 [![share_plus](https://github.com/fluttercommunity/plus_plugins/actions/workflows/share_plus.yaml/badge.svg)](https://github.com/fluttercommunity/plus_plugins/actions/workflows/share_plus.yaml)
